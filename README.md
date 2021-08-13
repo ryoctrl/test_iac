@@ -5,7 +5,7 @@
 ## usage
 
 ```
-$ cd /path/to/ryoctrl_iac
+$ cd /path/to/test_iac
 $ cp .env.sample .env
 # edit dot env if needed.
 $ vi .env
